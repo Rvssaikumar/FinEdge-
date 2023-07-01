@@ -1,4 +1,6 @@
-# FinEdge-1. The website should be built using the Astro framework. You are allowed to use additional libraries or tools if necessary.
+# FinEdge-1. 
+The website s
+hould be built using the Astro framework. You are allowed to use additional libraries or tools if necessary.
 
 2. Your website should follow responsive design principles and provide a good user experience on both desktop and mobile devices.
 
